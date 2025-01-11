@@ -1,6 +1,6 @@
 <p align="center">
 <img width="100" src=".github/assets/ROBO MULHER LOIRA PODCASTER.JFIF">
-    width="300"
+    
 />
 </p>
 
@@ -55,8 +55,7 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Você é uma roteirista de podcast, e vamos criar um podcast que fala de saúde e bem estar, focado em autoconhecimento e eu gostaria de uma ajuda sua para criar 5 sugestões de nomes criativos para um podcast de equilíbrio emocional feito por terapeutas holísticos, e que tenha algum trocadilho “zen” no nome
-O podcast vai falar sobre dicas e novidades sobre conexão espiritual e propósito de vida e as mais novas práticas saudáveis do mercado de trabalho/empresas em relação ao autocuidado dos colaboradores, na busca de equilíbrio e um ambiente de trabalho agradável.
+|  título  | Você é uma roteirista de podcast, e vamos criar um podcast que fala de saúde e bem estar, focado em autoconhecimento e eu gostaria de uma ajuda sua para criar 5 sugestões de nomes criativos para um podcast de equilíbrio emocional feito por terapeutas holísticos, e que tenha algum trocadilho “zen” no nome. O podcast vai falar sobre dicas e novidades sobre conexão espiritual e propósito de vida e as mais novas práticas saudáveis do mercado de trabalho/empresas em relação ao autocuidado dos colaboradores, na busca de equilíbrio e um ambiente de trabalho agradável.
 {REGRAS}
 •	O nome deve ser enxuto, um nome e um subtítulo
 •	O nome tenha algum trocadilho com nomes de filmes conhecidos como “Comer, Rezar e Amar”, Divertidamente e Soul
