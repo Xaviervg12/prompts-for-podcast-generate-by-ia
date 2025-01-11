@@ -1,8 +1,5 @@
-<p align="center">
-   
- <img width="100" src=".github/assets/ROBO MULHER LOIRA PODCASTER1.png">
-</p>
 
+ <img width="100" src=".github/assets/ROBO MULHER LOIRA PODCASTER1.png">
 
 <p align="center">
 <a href="https://dio.me/">
