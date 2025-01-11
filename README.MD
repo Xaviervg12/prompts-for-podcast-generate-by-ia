@@ -1,7 +1,6 @@
 <p align="center">
 <img width="300" src=".github/assets/ROBO MULHER LOIRA PODCASTER.JFIF">
     
-/>
 </p>
 
 <p align="center">
